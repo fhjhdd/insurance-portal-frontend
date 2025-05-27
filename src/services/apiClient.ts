@@ -1,5 +1,5 @@
-const API_BASE_URL = 'http://localhost:50501/api';
-// const API_BASE_URL = "https://insurance-portal-backend.vercel.app/api"
+// const API_BASE_URL = 'http://localhost:50501/api';
+const API_BASE_URL = "bb1-zeta.vercel.app/api"
 
 
 export async function apiRequest<T>(endpoint: string, options?: RequestInit): Promise<T> {
