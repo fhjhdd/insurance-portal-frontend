@@ -13,13 +13,7 @@ const LandingFooter = () => (
           </p>
         </div>
       
-        <div>
-          <h4 className="text-lg font-semibold mb-4">Contact</h4>
-          <p className="text-gray-300">
-            Email: support@TeamBoost.com<br />
-            Phone: +1 234 567 890
-          </p>
-        </div>
+       
       </div>
       <div className="mt-8 pt-8 border-t border-gray-700 text-center">
         <p className="text-gray-400">
